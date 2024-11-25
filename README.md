@@ -10,8 +10,3 @@ Um programa de linha de comando (CLI) para gerenciar tarefas diárias, permitind
 - Menu interativo de comandos para facilitar a navegação.
 
 ---
-
-## Estrutura de Dados
-As tarefas são representadas por dicionários com a seguinte estrutura:
-
-```python
